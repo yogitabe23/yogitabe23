@@ -99,37 +99,66 @@ A browser-based 2D RPG featuring real-time rendering, collision detection, enemy
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
+<table>
+<tr>
+<td align="center">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+### Languages
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<a href="#"><img title="C" src="https://cdn.simpleicons.org/c" width="55"></a>
+<a href="#"><img title="C++" src="https://cdn.simpleicons.org/cplusplus" width="55"></a>
+<a href="#"><img title="Python" src="https://cdn.simpleicons.org/python" width="55"></a>
+<a href="#"><img title="JavaScript" src="https://cdn.simpleicons.org/javascript" width="55"></a>
+<a href="#"><img title="HTML5" src="https://cdn.simpleicons.org/html5" width="55"></a>
+<a href="#"><img title="CSS3" src="https://cdn.simpleicons.org/css3" width="55"></a>
 
-**Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter" />
+### Frontend
 
-**Data / AI-ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,numPy" /> &nbsp; Pandas · NumPy · scikit-learn · Power BI
+<a href="#"><img title="React" src="https://cdn.simpleicons.org/react" width="55"></a>
+<a href="#"><img title="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss" width="55"></a>
 
-**Cloud / DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+### Backend
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp; SQL
+<a href="#"><img title="Node.js" src="https://cdn.simpleicons.org/nodedotjs" width="55"></a>
+<a href="#"><img title="Express.js" src="https://cdn.simpleicons.org/express" width="55"></a>
+<a href="#"><img title="FastAPI" src="https://cdn.simpleicons.org/fastapi" width="55"></a>
 
-**Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,figma,ps,selenium" /> &nbsp; Canva · Blender
+### Mobile
+
+<a href="#"><img title="Flutter" src="https://cdn.simpleicons.org/flutter" width="55"></a>
+
+### Data / AI-ML
+
+<a href="#"><img title="Python" src="https://cdn.simpleicons.org/python" width="55"></a>
+<a href="#"><img title="Pandas" src="https://cdn.simpleicons.org/pandas" width="55"></a>
+<a href="#"><img title="NumPy" src="https://cdn.simpleicons.org/numpy" width="55"></a>
+<a href="#"><img title="Scikit-learn" src="https://cdn.simpleicons.org/scikitlearn" width="55"></a>
+<a href="#"><img title="Power BI" src="https://cdn.simpleicons.org/powerbi" width="55"></a>
+
+### Cloud / DevOps
+
+<a href="#"><img title="Docker" src="https://cdn.simpleicons.org/docker" width="55"></a>
+<a href="#"><img title="Git" src="https://cdn.simpleicons.org/git" width="55"></a>
+<a href="#"><img title="GitHub" src="https://cdn.simpleicons.org/github" width="55"></a>
+<a href="#"><img title="Linux" src="https://cdn.simpleicons.org/linux" width="55"></a>
+
+### Databases
+
+<a href="#"><img title="MongoDB" src="https://cdn.simpleicons.org/mongodb" width="55"></a>
+<a href="#"><img title="MySQL" src="https://cdn.simpleicons.org/mysql" width="55"></a>
+
+### Dev Tools
+
+<a href="#"><img title="VS Code" src="https://cdn.simpleicons.org/visualstudiocode" width="55"></a>
+<a href="#"><img title="Figma" src="https://cdn.simpleicons.org/figma" width="55"></a>
+<a href="#"><img title="Photoshop" src="https://cdn.simpleicons.org/adobephotoshop" width="55"></a>
+<a href="#"><img title="Selenium" src="https://cdn.simpleicons.org/selenium" width="55"></a>
+<a href="#"><img title="Canva" src="https://cdn.simpleicons.org/canva" width="55"></a>
+<a href="#"><img title="Blender" src="https://cdn.simpleicons.org/blender" width="55"></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
