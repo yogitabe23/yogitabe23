@@ -174,19 +174,13 @@ const yogita = {
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,nodejs,express,fastapi,flutter,mongodb,mysql,docker,git,github,linux,vscode,figma,selenium,blender,ps" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+Pandas • NumPy • Scikit-learn • Power BI • Canva
 </p>
-
----
 ---
