@@ -1,10 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=24,25,26,27,28&text=Hi%20there%20👋,%20I'm%20Yogita&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Computer%20Engineering%20Undergraduate%20|%20Aspiring%20Software%20Engineer%20|%20Software%20Developer%20|%20Data%20Analyst&descAlignY=58&descSize=18"/>
+<svg width="1600" height="320" viewBox="0 0 1600 320" xmlns="http://www.w3.org/2000/svg">
 
-<a href="https://github.com/yogitabe23">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=💜+AI+%26+Machine+Learning;🌐+Full+Stack+Development;📊+Data+Analysis+%26+Visualization;🚀+Always+Learning+New+Technologies"/>
-</a>
+<defs>
+
+    <!-- Pink Glow -->
+    <radialGradient id="glow" cx="50%" cy="40%" r="58%">
+        <stop offset="0%" stop-color="#ff4fa3" stop-opacity=".85"/>
+        <stop offset="30%" stop-color="#ec4899" stop-opacity=".55"/>
+        <stop offset="55%" stop-color="#be185d" stop-opacity=".28"/>
+        <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="title" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#ffffff"/>
+        <stop offset="50%" stop-color="#ffe4f1"/>
+        <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <filter id="blur">
+        <feGaussianBlur stdDeviation="75"/>
+    </filter>
+
+</defs>
+
+<!-- Background Glow -->
+
+<ellipse
+cx="800"
+cy="135"
+rx="700"
+ry="170"
+fill="url(#glow)"
+filter="url(#blur)"
+/>
+
+<!-- Decorative Glow Dots -->
+
+<circle cx="360" cy="75" r="2" fill="#f9a8d4" opacity=".7"/>
+<circle cx="470" cy="225" r="2" fill="#ec4899" opacity=".6"/>
+<circle cx="1280" cy="65" r="2" fill="#fbcfe8" opacity=".8"/>
+<circle cx="1180" cy="235" r="2" fill="#f472b6" opacity=".7"/>
+<circle cx="600" cy="90" r="1.5" fill="white" opacity=".6"/>
+<circle cx="1020" cy="210" r="1.5" fill="white" opacity=".5"/>
+
+<!-- Title -->
+
+<text
+x="800"
+y="135"
+text-anchor="middle"
+font-family="Inter, Segoe UI, sans-serif"
+font-size="60"
+font-weight="700"
+fill="url(#title)">
+
+Hi there 👋, I'm Yogita
+
+</text>
+
+<!-- Subtitle -->
+
+<text
+x="800"
+y="182"
+text-anchor="middle"
+font-family="Inter, Segoe UI, sans-serif"
+font-size="23"
+fill="#fbcfe8">
+
+Computer Engineering Undergraduate
+
+</text>
+
+<text
+x="800"
+y="214"
+text-anchor="middle"
+font-family="Inter, Segoe UI, sans-serif"
+font-size="20"
+fill="#f9a8d4">
+
+Software Developer • AI / ML • Data Analyst
+
+</text>
+
+</svg>
 
 </div>
 
