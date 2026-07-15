@@ -146,44 +146,47 @@ const yogita = {
 ---
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  &nbsp;
-  <a href="https://github.com/yogitabe23" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/yogitabe23">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:yyogitabe23@thapar.edu">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="42"/>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="42" />
   </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42"/>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,nodejs,express,fastapi,flutter,mongodb,mysql,docker,git,github,linux,vscode,figma,selenium,blender,ps" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
+---
 ---
