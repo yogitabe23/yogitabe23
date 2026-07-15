@@ -107,19 +107,6 @@ const yogita = {
 </p>
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogitabe23&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitabe23&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yogitabe23&theme=nord&border=7dd3fc&fire=7dd3fc&ring=7dd3fc" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔆 SunSafe — AI-Powered Sunscreen Recommendation System
@@ -174,10 +161,6 @@ A browser-based 2D RPG featuring real-time rendering, collision detection, enemy
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogitabe23&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitabe23&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="38%" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yogitabe23&theme=nord&border=7dd3fc&fire=7dd3fc&ring=7dd3fc" />
