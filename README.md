@@ -96,70 +96,67 @@ A browser-based 2D RPG featuring real-time rendering, collision detection, enemy
 🔗 [Code](https://github.com/yogitabe23/the-rise-of-gurt)
 
 ---
-
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center">
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-### Languages
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-<a href="#"><img title="C" src="https://cdn.simpleicons.org/c" width="55"></a>
-<a href="#"><img title="C++" src="https://cdn.simpleicons.org/cplusplus" width="55"></a>
-<a href="#"><img title="Python" src="https://cdn.simpleicons.org/python" width="55"></a>
-<a href="#"><img title="JavaScript" src="https://cdn.simpleicons.org/javascript" width="55"></a>
-<a href="#"><img title="HTML5" src="https://cdn.simpleicons.org/html5" width="55"></a>
-<a href="#"><img title="CSS3" src="https://cdn.simpleicons.org/css3" width="55"></a>
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-### Frontend
+### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
-<a href="#"><img title="React" src="https://cdn.simpleicons.org/react" width="55"></a>
-<a href="#"><img title="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss" width="55"></a>
+### 🤖 Data / AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-### Backend
+### ☁️ Cloud / DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-<a href="#"><img title="Node.js" src="https://cdn.simpleicons.org/nodedotjs" width="55"></a>
-<a href="#"><img title="Express.js" src="https://cdn.simpleicons.org/express" width="55"></a>
-<a href="#"><img title="FastAPI" src="https://cdn.simpleicons.org/fastapi" width="55"></a>
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### Mobile
-
-<a href="#"><img title="Flutter" src="https://cdn.simpleicons.org/flutter" width="55"></a>
-
-### Data / AI-ML
-
-<a href="#"><img title="Python" src="https://cdn.simpleicons.org/python" width="55"></a>
-<a href="#"><img title="Pandas" src="https://cdn.simpleicons.org/pandas" width="55"></a>
-<a href="#"><img title="NumPy" src="https://cdn.simpleicons.org/numpy" width="55"></a>
-<a href="#"><img title="Scikit-learn" src="https://cdn.simpleicons.org/scikitlearn" width="55"></a>
-<a href="#"><img title="Power BI" src="https://cdn.simpleicons.org/powerbi" width="55"></a>
-
-### Cloud / DevOps
-
-<a href="#"><img title="Docker" src="https://cdn.simpleicons.org/docker" width="55"></a>
-<a href="#"><img title="Git" src="https://cdn.simpleicons.org/git" width="55"></a>
-<a href="#"><img title="GitHub" src="https://cdn.simpleicons.org/github" width="55"></a>
-<a href="#"><img title="Linux" src="https://cdn.simpleicons.org/linux" width="55"></a>
-
-### Databases
-
-<a href="#"><img title="MongoDB" src="https://cdn.simpleicons.org/mongodb" width="55"></a>
-<a href="#"><img title="MySQL" src="https://cdn.simpleicons.org/mysql" width="55"></a>
-
-### Dev Tools
-
-<a href="#"><img title="VS Code" src="https://cdn.simpleicons.org/visualstudiocode" width="55"></a>
-<a href="#"><img title="Figma" src="https://cdn.simpleicons.org/figma" width="55"></a>
-<a href="#"><img title="Photoshop" src="https://cdn.simpleicons.org/adobephotoshop" width="55"></a>
-<a href="#"><img title="Selenium" src="https://cdn.simpleicons.org/selenium" width="55"></a>
-<a href="#"><img title="Canva" src="https://cdn.simpleicons.org/canva" width="55"></a>
-<a href="#"><img title="Blender" src="https://cdn.simpleicons.org/blender" width="55"></a>
-
-</td>
-</tr>
-</table>
-
+### 🛠️ Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
