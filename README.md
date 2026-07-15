@@ -117,7 +117,7 @@ A browser-based 2D RPG featuring real-time rendering, collision detection, enemy
 
 **Data / AI-ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=py" /> &nbsp; Pandas · NumPy · scikit-learn · Power BI
+<img src="https://skillicons.dev/icons?i=py,numPy" /> &nbsp; Pandas · NumPy · scikit-learn · Power BI
 
 **Cloud / DevOps**
 <br/>
@@ -146,13 +146,6 @@ A browser-based 2D RPG featuring real-time rendering, collision detection, enemy
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogitabe23&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
