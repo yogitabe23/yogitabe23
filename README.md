@@ -1,15 +1,25 @@
+</div align ="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/yogitabe23?label=Followers&style=flat-square&color=7dd3fc)
+
+</div>
+
 <div align="center">
 
 <p align="center">
   <img src="./banner.svg" width="100%">
 </p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogita-14577b2b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yyogitabe23@thapar.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-7dd3fc?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/yogitabe23?label=Followers&style=flat-square&color=7dd3fc)
-
-</div>
 
 ---
 
