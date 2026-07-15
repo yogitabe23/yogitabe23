@@ -184,16 +184,46 @@ A browser-based 2D RPG featuring real-time rendering, collision detection, enemy
 </p>
 
 ---
+---
 
-## 🤝 Let's Connect
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yogita-14577b2b2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/yogitabe23" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  </a>
+  &nbsp;
   <a href="mailto:yyogitabe23@thapar.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-7dd3fc?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42"/>
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,nodejs,express,fastapi,flutter,mongodb,mysql,docker,git,github,linux,vscode,figma,selenium,blender,ps" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+</p>
+
+---
