@@ -1,25 +1,17 @@
-</div >
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/yogitabe23?label=Followers&style=flat-square&color=7dd3fc)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B,%20I'm%20Yogita&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Undergraduate%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descSize=16" width="100%"/>
+
+<a href="https://github.com/yogitabe23">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning;Full-Stack+Development;Data+Analysis+%26+Visualization" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=ec4899&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/yogitabe23?label=Followers&style=flat-square&color=ec4899)
 
 </div>
-
-<div >
-
-<p align="center">
-  <img src="./banner.svg" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yogita-14577b2b2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yyogitabe23@thapar.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-7dd3fc?style=flat-square&logo=gmail&logoColor=pink" />
-  </a>
-</p>
-
 
 ---
 
@@ -27,7 +19,7 @@
 
 ```typescript
 const yogita = {
-  title: "Computer Engineering Undergraduate | Aspiring Software Engineer / Software Developer / Data Analyst",
+  about: "Computer Engineering undergraduate passionate about developing scalable software, AI-powered applications, and intuitive user experiences. I enjoy solving challenging problems through technology and continuously learning modern tools that help transform ideas into impactful products.",
   institution: "Thapar Institute of Engineering and Technology",
   stack: {
     languages: ["C", "C++", "Python", "JavaScript", "HTML", "CSS", "SQL"],
@@ -52,70 +44,22 @@ const yogita = {
 ```
 
 ---
-## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,nodejs,express,fastapi,flutter,mongodb,mysql,docker,git,github,linux,vscode,figma,selenium,blender,ps" />
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 📱 Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-### 🤖 Data / AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### ☁️ Cloud / DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🛠️ Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-</p>
 ---
-
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
@@ -129,58 +73,41 @@ const yogita = {
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogitabe23&show_icons=true&theme=nord&border_color=ec4899&title_color=ec4899&icon_color=ec4899&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitabe23&layout=compact&theme=nord&border_color=ec4899&title_color=ec4899&text_color=c9d1d9" width="38%" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yogitabe23&theme=nord&border=7dd3fc&fire=7dd3fc&ring=7dd3fc" />
+  <img src="https://streak-stats.demolab.com?user=yogitabe23&theme=nord&border=ec4899&fire=ec4899&ring=ec4899" />
 </p>
 
 ---
-
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogitabe23&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogitabe23&theme=nord&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff" />
 </p>
 
 ---
----
 
----
-
-<h2 align="center">🌐 Connect with Me</h2>
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <a href="https://www.linkedin.com/in/yogita-14577b2b2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/yogitabe23">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  &nbsp;
+  <a href="https://github.com/yogitabe23" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:yyogitabe23@thapar.edu">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_USERNAME">
-    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="42" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,nodejs,express,fastapi,flutter,mongodb,mysql,docker,git,github,linux,vscode,figma,selenium,blender,ps" />
-</p>
-
-<p align="center">
-Pandas • NumPy • Scikit-learn • Power BI • Canva
-</p>
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
