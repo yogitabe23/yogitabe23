@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B,%20I'm%20Yogita&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Undergraduate%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=24,25,26,27,28&text=Hi%20there%20👋,%20I'm%20Yogita&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Computer%20Engineering%20Undergraduate%20|%20Aspiring%20Software%20Engineer%20|%20Software%20Developer%20|%20Data%20Analyst&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/yogitabe23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning;Full-Stack+Development;Data+Analysis+%26+Visualization" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=💜+AI+%26+Machine+Learning;🌐+Full+Stack+Development;📊+Data+Analysis+%26+Visualization;🚀+Always+Learning+New+Technologies"/>
 </a>
 
-<br/>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=7dd3fc&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/yogitabe23?label=Followers&style=flat-square&color=7dd3fc)
