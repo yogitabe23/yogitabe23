@@ -44,58 +44,6 @@ const yogita = {
 ```
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔆 SunSafe — AI-Powered Sunscreen Recommendation System
-
-Analyzes user demographics, geolocation, UV index, and exposure patterns to deliver personalized sunscreen recommendations via a trained ML model, with an interactive Power BI dashboard for visualizing UV exposure trends.
-
-<a href="https://github.com/yogitabe23/sunsafe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogitabe23&repo=sunsafe&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-</a>
-
-| Layer | Technology |
-|---|---|
-| Language | Python, SQL |
-| ML | Machine Learning Model |
-| Visualization | Power BI |
-
-🔗 [Code](https://github.com/yogitabe23/sunsafe)
-
-### 👗 Fitsy — AI Outfit Recommendation Platform
-
-A full-stack AI-powered platform that generates personalized outfit combinations using TF-IDF, cosine similarity, and KNN-based recommendation techniques, backed by real-time REST APIs.
-
-<a href="https://github.com/yogitabe23/fitsy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogitabe23&repo=fitsy&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-</a>
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js |
-| Backend | FastAPI |
-| Language | Python |
-
-🔗 [Code](https://github.com/yogitabe23/fitsy)
-
-### 🎮 The Rise of Gurt — Browser-Based 2D RPG
-
-A browser-based 2D RPG featuring real-time rendering, collision detection, enemy AI, tilemaps, and chunk-based world loading, built with Phaser 3.
-
-<a href="https://github.com/yogitabe23/the-rise-of-gurt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogitabe23&repo=the-rise-of-gurt&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-</a>
-
-| Layer | Technology |
-|---|---|
-| Engine | Phaser 3 |
-| Language | JavaScript |
-| Rendering | HTML5 Canvas |
-
-🔗 [Code](https://github.com/yogitabe23/the-rise-of-gurt)
-
----
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -157,6 +105,71 @@ A browser-based 2D RPG featuring real-time rendering, collision detection, enemy
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogitabe23&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitabe23&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="38%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yogitabe23&theme=nord&border=7dd3fc&fire=7dd3fc&ring=7dd3fc" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔆 SunSafe — AI-Powered Sunscreen Recommendation System
+
+Analyzes user demographics, geolocation, UV index, and exposure patterns to deliver personalized sunscreen recommendations via a trained ML model, with an interactive Power BI dashboard for visualizing UV exposure trends.
+
+<a href="https://github.com/yogitabe23/sunsafe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogitabe23&repo=sunsafe&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+</a>
+
+| Layer | Technology |
+|---|---|
+| Language | Python, SQL |
+| ML | Machine Learning Model |
+| Visualization | Power BI |
+
+🔗 [Code](https://github.com/yogitabe23/sunsafe)
+
+### 👗 Fitsy — AI Outfit Recommendation Platform
+
+A full-stack AI-powered platform that generates personalized outfit combinations using TF-IDF, cosine similarity, and KNN-based recommendation techniques, backed by real-time REST APIs.
+
+<a href="https://github.com/yogitabe23/fitsy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogitabe23&repo=fitsy&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+</a>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| Backend | FastAPI |
+| Language | Python |
+
+🔗 [Code](https://github.com/yogitabe23/fitsy)
+
+### 🎮 The Rise of Gurt — Browser-Based 2D RPG
+
+A browser-based 2D RPG featuring real-time rendering, collision detection, enemy AI, tilemaps, and chunk-based world loading, built with Phaser 3.
+
+<a href="https://github.com/yogitabe23/the-rise-of-gurt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogitabe23&repo=the-rise-of-gurt&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+</a>
+
+| Layer | Technology |
+|---|---|
+| Engine | Phaser 3 |
+| Language | JavaScript |
+| Rendering | HTML5 Canvas |
+
+🔗 [Code](https://github.com/yogitabe23/the-rise-of-gurt)
+
 ---
 
 ## 📊 GitHub Stats
