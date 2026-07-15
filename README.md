@@ -165,7 +165,7 @@ A browser-based 2D RPG featuring real-time rendering, collision detection, enemy
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOGITA](https://www.linkedin.com/in/yogita-14577b2b2">
+  <a href="https://www.linkedin.com/in/yogita-14577b2b2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yyogitabe23@thapar.edu">
