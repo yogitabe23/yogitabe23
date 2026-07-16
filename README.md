@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:030712,30:312e81,55:6d28d9,80:c026d3,100:f472b6&text=Hi,%20I'm%20Yogita&fontSize=50&fontColor=ffffff&animation=blink&desc=Turning%20Ideas%20Into%20Impactful%20Software&descColor=e9d5ff"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0d1117,30:2b1055,60:6d28d9,100:c084fc&text=Yogita&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20•%20AI%20Engineer%20•%20Problem%20Solver&descColor=e9d5ff"/>
+
 
 <img src="https://img.shields.io/badge/-SOFTWARE%20ENGINEER-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
 <img src="https://img.shields.io/badge/-SOFTWARE%20DEVELOPER-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
