@@ -20,13 +20,11 @@
 <a href="https://github.com/yogitabe23">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=ec4899&style=for-the-badge&label=PROFILE%20VIEWS)
 
 </div>
-
 <br/>
 
 <hr style="border: 1px solid #ec4899;">
