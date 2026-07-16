@@ -1,6 +1,21 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,100:ec4899&height=180&section=header&text=Hi,%20I'm%20Yogita&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Analyst&descAlignY=62&descSize=15" width="100%"/>
 <a href="https://github.com/yogitabe23">
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/yogita-14577b2b2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/yogitabe23" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yyogitabe23@thapar.edu">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
+</p>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning;Full-Stack+Development;Data+Analysis+%26+Visualization" alt="Typing SVG" />
 </a>
 <br/>
