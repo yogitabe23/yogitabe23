@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/-DATA%20ANALYST-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
 
 <br/>
+<br><a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning;Full-Stack+Development;Data+Analysis+%26+Visualization" alt="Typing SVG" /></a><br/>
 
 <a href="https://www.linkedin.com/in/yogita-14577b2b2/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
