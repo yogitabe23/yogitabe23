@@ -36,7 +36,7 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
 - 🎓 **Education:** B.E. in Computer Engineering @ Thapar Institute of Engineering and Technology *(2023 – 2027)*
 - 🏆 **Achievements:**
   - 💠 Solved **500+ DSA problems** on LeetCode and GeeksforGeeks
-  - 💠 Built and shipped **multiple full-stack, AI, and data-driven projects**
+  - 💠 Built **multiple full-stack, AI, and data-driven projects**
 
 ---
 
@@ -103,7 +103,7 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&section=footer&height=160&color=0:030712,25:312e81,50:6d28d9,75:c026d3,100:f472b6&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Let's%20Connect%20%F0%9F%92%9C&descSize=14&descAlignY=62&descColor=e9d5ff"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&section=footer&height=160&color=0:030712,25:312e81,50:6d28d9,75:c026d3,100:f472b6&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Let's%20Connect%20%F0%9F%92%9C&descSize=16&descAlignY=62&descColor=e9d5ff"/>
 <p align="center">
   <a href="https://www.linkedin.com/in/yogita-14577b2b2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
