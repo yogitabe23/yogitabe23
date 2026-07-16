@@ -12,10 +12,8 @@
  
 ## 👩‍💻 About Me
  
-Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, focused on building scalable software, AI-powered applications, and clean user experiences. I enjoy solving real-world problems through code and continuously learning tools that turn ideas into impactful products.
- 
----
-
+Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, focused on building scalable software, AI-powered applications, 
+and clean user experiences. I enjoy solving real-world problems through code and continuously learning tools that turn ideas into impactful products.
 ---
 
 ## 🛠️ Languages & Tools
