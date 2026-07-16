@@ -14,9 +14,11 @@
 <a href="https://www.linkedin.com/in/yogita-14577b2b2/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:yyogita_be23@thapar.edu">
   <img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/yogitabe23">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
