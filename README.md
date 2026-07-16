@@ -100,23 +100,6 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yogita-14577b2b2/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/yogitabe23" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yyogitabe_23@thapar.edu">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-  </a>
-</p>
-
----
 
 <div align="center">
 
