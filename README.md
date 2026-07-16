@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=160&color=0:0d1117,30:2b1055,60:6d28d9,100:c084fc&text=Hi,%20I%20am%20Yogita&fontSize=40&fontColor=ffffff&animation=fadeIn&descColor=e9d5ff"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=160&color=0:0d1117,30:2b1055,60:6d28d9,100:c084fc&text=Hi,%20I'm%20Yogita&fontSize=40&fontColor=ffffff&animation=fadeIn&descColor=e9d5ff"/>
 
 
 <img src="https://img.shields.io/badge/-SOFTWARE%20ENGINEER-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
