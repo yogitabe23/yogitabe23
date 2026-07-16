@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/yogita-14577b2b2/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:yyogitabe23@thapar.edu">
+<a href="mailto:yyogita_be23@thapar.edu">
   <img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/yogitabe23">
@@ -111,7 +111,7 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
     <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
   &nbsp;
-  <a href="mailto:yyogitabe23@thapar.edu">
+  <a href="mailto:yyogitabe_23@thapar.edu">
     <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
 </p>
