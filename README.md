@@ -1,47 +1,20 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B,%20I'm%20Yogita&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Undergraduate%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descSize=16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,100:ec4899&height=180&section=header&text=Hi,%20I'm%20Yogita&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Analyst&descAlignY=62&descSize=15" width="100%"/>
 <a href="https://github.com/yogitabe23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning;Full-Stack+Development;Data+Analysis+%26+Visualization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning;Full-Stack+Development;Data+Analysis+%26+Visualization" alt="Typing SVG" />
 </a>
-
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=ec4899&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/yogitabe23?label=Followers&style=flat-square&color=ec4899)
-
+ 
 </div>
-
 ---
-
-## 👩‍💻 Who I Am
-
-```typescript
-const yogita = {
-  about: "Computer Engineering undergraduate passionate about developing scalable software, AI-powered applications, and intuitive user experiences. I enjoy solving challenging problems through technology and continuously learning modern tools that help transform ideas into impactful products.",
-  institution: "Thapar Institute of Engineering and Technology",
-  stack: {
-    languages: ["C", "C++", "Python", "JavaScript", "HTML", "CSS", "SQL"],
-    frontend: ["React.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "FastAPI"],
-    mobile: ["Flutter"],
-    dataAndAI: ["Pandas", "NumPy", "scikit-learn", "Power BI"],
-    cloudAndDevOps: ["Docker", "Git", "GitHub", "Linux"],
-    databases: ["MongoDB", "SQL"]
-  },
-  launchedProjects: [
-    "SunSafe — AI-Powered Sunscreen Recommendation System",
-    "Fitsy — AI Outfit Recommendation Platform",
-    "The Rise of Gurt — Browser-Based 2D RPG"
-  ],
-  focusAreas: [
-    "Full-Stack Web Development",
-    "Artificial Intelligence & Machine Learning",
-    "Data Analysis & Visualization"
-  ]
-};
-```
+ 
+## 👩‍💻 About Me
+ 
+Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, focused on building scalable software, AI-powered applications, and clean user experiences. I enjoy solving real-world problems through code and continuously learning tools that turn ideas into impactful products.
+ 
+---
 
 ---
 
