@@ -25,9 +25,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=ec4899&style=for-the-badge&label=PROFILE%20VIEWS)
 
 </div>
-<br/>
 
 
+<hr style= "border: 1px solid #ec4899;">
 
 <h1 align="center" style="color:#ec4899;">About Me</h1>
 
