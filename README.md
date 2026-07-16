@@ -118,4 +118,8 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:be185d&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=blur&section=footer&height=130&color=0:030712,25:312e81,50:6d28d9,75:c026d3,100:f472b6"/>
+
+</div>
