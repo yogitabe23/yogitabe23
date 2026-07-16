@@ -26,11 +26,14 @@
 </div>
 
 ---
- 
 ## 👩‍💻 About Me
- 
-Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, focused on building scalable software, AI-powered applications, 
-and clean user experiences. I enjoy solving real-world problems through code and continuously learning tools that turn ideas into impactful products.
+
+I enjoy building software that combines thoughtful engineering with intelligent solutions.
+
+My work focuses on Full-Stack Development, Artificial Intelligence, Machine Learning, and Data Analytics, where I develop scalable applications, intelligent recommendation systems, and interactive user experiences.
+
+Currently, I'm exploring modern software architecture, cloud technologies, and advanced AI techniques while continuously strengthening my problem-solving skills through competitive programming.
+
 ---
 
 ## 🛠️ Tech Stack
