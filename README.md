@@ -121,5 +121,18 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&section=footer&height=180&color=0:030712,25:312e81,50:6d28d9,75:c026d3,100:f472b6&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Let's%20Connect%20%F0%9F%92%9C&descSize=18&descAlignY=62&descColor=e9d5ff"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogita-14577b2b2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/yogitabe23" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yyogitabe_23@thapar.edu">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
+</p>
 
 </div>
