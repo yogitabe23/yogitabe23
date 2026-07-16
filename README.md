@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-SOFTWARE%20DEVELOPER-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
 <img src="https://img.shields.io/badge/-DATA%20ANALYST-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/yogita-14577b2b2/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=ec4899&style=for-the-badge&label=PROFILE%20VIEWS)
 
@@ -41,7 +41,7 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
 
 ---
 
-## 🛠️ Tech Stack
+<h1 align="center" style="color:#ec4899;">Tech Stack</h1>
 
 <p align="center">
 
@@ -90,34 +90,14 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
 
 ---
 
-## 🚀 Featured Projects
+
+<h1 align="center" style="color:#ec4899;">Featured Projects</h1>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[☀️ SunSafe](https://github.com/yogitabe23/SunSafe)** | AI-powered sunscreen recommendation system that analyzes user demographics, geolocation, UV index, and exposure patterns to provide personalized recommendations. Includes an interactive Power BI dashboard for UV exposure insights. | `Python` `SQL` `Machine Learning` `Power BI` |
 | **[👗 Fitsy](https://github.com/yogitabe23/Fitsy)** | Full-stack AI outfit recommendation platform that generates personalized outfit combinations using **TF-IDF**, **Cosine Similarity**, and **KNN**, powered by real-time REST APIs. | `React.js` `FastAPI` `Python` `Machine Learning` |
 | **[🎮 The Rise of Gurt](https://github.com/yogitabe23/The-Rise-of-Gurt)** | Browser-based 2D RPG featuring real-time rendering, collision detection, enemy AI, tilemaps, chunk-based world loading, and interactive gameplay built with Phaser 3. | `Phaser 3` `JavaScript` `HTML5 Canvas` |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogitabe23&show_icons=true&theme=nord&border_color=ec4899&title_color=ec4899&icon_color=ec4899&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitabe23&layout=compact&theme=nord&border_color=ec4899&title_color=ec4899&text_color=c9d1d9" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yogitabe23&theme=nord&border=ec4899&fire=ec4899&ring=ec4899" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogitabe23&theme=nord&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff" />
-</p>
 
 ---
 
