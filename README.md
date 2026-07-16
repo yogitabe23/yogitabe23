@@ -1,38 +1,43 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,100:ec4899&height=180&section=header&text=Hi,%20I'm%20Yogita&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Analyst&descAlignY=62&descSize=15" width="100%"/>
-<a href="https://github.com/yogitabe23">
 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/yogita-14577b2b2/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/yogitabe23" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yyogitabe23@thapar.edu">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:2d0a1f,100:1a1a2e&height=260&section=header&text=YOGITA&fontSize=70&fontColor=ff6fb0&fontAlignY=35&desc=Turning%20Ideas%20Into%20Intelligent%20Software&descAlignY=55&descSize=22&descColor=ff9dc4" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning;Full-Stack+Development;Data+Analysis+%26+Visualization" alt="Typing SVG" />
-</a>
 <br/>
-  
-![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=ec4899&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/yogitabe23?label=Followers&style=flat-square&color=ec4899)
- 
+
+<img src="https://img.shields.io/badge/-SOFTWARE%20ENGINEER-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/-SOFTWARE%20DEVELOPER-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/-DATA%20ANALYST-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/yogita-14577b2b2/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yyogitabe23@thapar.edu">
+  <img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/yogitabe23">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=ec4899&style=for-the-badge&label=PROFILE%20VIEWS)
+
 </div>
 
----
-## 👩‍💻 About Me
+<br/>
 
-I enjoy building software that combines thoughtful engineering with intelligent solutions.
+<hr style="border: 1px solid #ec4899;">
 
-My work focuses on Full-Stack Development, Artificial Intelligence, Machine Learning, and Data Analytics, where I develop scalable applications, intelligent recommendation systems, and interactive user experiences.
+<h1 align="center" style="color:#ec4899;">About Me</h1>
 
-Currently, I'm exploring modern software architecture, cloud technologies, and advanced AI techniques while continuously strengthening my problem-solving skills through competitive programming.
+I'm a **Computer Engineering undergraduate** with a strong passion for building scalable software, AI-powered applications, and intuitive user experiences. My work spans **Full-Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Data Analytics** — from intelligent recommendation systems to interactive dashboards. I enjoy solving real-world problems through code and continuously learning tools that turn ideas into impactful products.
+
+- 🎓 **Education:** B.E. in Computer Engineering @ Thapar Institute of Engineering and Technology *(2023 – 2027)*
+- 🏆 **Achievements:**
+  - 💠 Solved **500+ DSA problems** on LeetCode and GeeksforGeeks
+  - 💠 Built and shipped **multiple full-stack, AI, and data-driven projects**
 
 ---
 
@@ -82,6 +87,7 @@ Currently, I'm exploring modern software architecture, cloud technologies, and a
 <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
 
 </p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -133,4 +139,4 @@ Currently, I'm exploring modern software architecture, cloud technologies, and a
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:be185d&height=120&section=footer" width="100%"/>
