@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0d1117,30:2b1055,60:6d28d9,100:c084fc&text=Yogita&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20•%20AI%20Engineer%20•%20Problem%20Solver&descColor=e9d5ff"/>
 
-</div>
+
 
 <img src="https://img.shields.io/badge/-SOFTWARE%20ENGINEER-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
 <img src="https://img.shields.io/badge/-SOFTWARE%20DEVELOPER-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e"/>
