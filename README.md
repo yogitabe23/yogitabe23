@@ -120,6 +120,6 @@ I'm a **Computer Engineering undergraduate** with a strong passion for building 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:0d1117,30:2b1055,60:6d28d9,100:c084fc&text=Thanks%20for%20Visiting%10!%20💜&fontSize=24&fontColor=ffffff&animation=fadeIn&descColor=e9d5ff"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:0d1117,30:2b1055,60:6d28d9,100:c084fc&text=Thanks%20for%20Visiting%20!%20💜&fontSize=24&fontColor=ffffff&animation=fadeIn&descColor=e9d5ff"/>
 
 </div>
