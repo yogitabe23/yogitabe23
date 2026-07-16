@@ -27,7 +27,7 @@
 </div>
 <br/>
 
-<hr colour🩷 style="border: 1px solid #ec4899;">
+<hr colour:pink style="border: 1px solid #ec4899;">
 
 <h1 align="center" style="color:#ec4899;">About Me</h1>
 
