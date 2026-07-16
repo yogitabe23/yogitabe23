@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning;Full-Stack+Development;Data+Analysis+%26+Visualization" alt="Typing SVG" />
 </a>
 <br/>
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=yogitabe23&color=ec4899&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/yogitabe23?label=Followers&style=flat-square&color=ec4899)
  
